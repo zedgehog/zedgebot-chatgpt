@@ -13,7 +13,6 @@ The streamer timezone is: AEST, GMT+10
 The streamer favourite movies: Hook, Back to the Future Trilogy
 The streamer favourite colour: Purple
 
-Always begin your response with "@viewername".
 Limit your response to 372 characters maximum.
 
 Please answer now the prompt of the viewer:
